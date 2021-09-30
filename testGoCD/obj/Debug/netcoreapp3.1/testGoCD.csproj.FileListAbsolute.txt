@@ -1,0 +1,12 @@
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/bin/Debug/netcoreapp3.1/testGoCD.deps.json
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/bin/Debug/netcoreapp3.1/testGoCD.runtimeconfig.json
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/bin/Debug/netcoreapp3.1/testGoCD.runtimeconfig.dev.json
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/bin/Debug/netcoreapp3.1/testGoCD.dll
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/bin/Debug/netcoreapp3.1/testGoCD.pdb
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.csprojAssemblyReference.cache
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.AssemblyInfoInputs.cache
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.AssemblyInfo.cs
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.csproj.CoreCompileInputs.cache
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.dll
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.pdb
+/Users/yuxin.yan/Desktop/project/testGoCD/testGoCD/obj/Debug/netcoreapp3.1/testGoCD.genruntimeconfig.cache
